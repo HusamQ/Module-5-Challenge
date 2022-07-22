@@ -10,6 +10,6 @@ We took a look at some data for the PyBer Ride Sharing company to study and anal
 
 # Breif Summary of result 
 Below is an analysis with breakdown by each city type.
-https://github.com/HusamQ/Module-5-Challenge/blob/main/Analysis/ByCitytype.PNG
+![alt text](https://github.com/HusamQ/Module-5-Challenge/blob/main/Analysis/ByCitytype.PNG)
 
 
