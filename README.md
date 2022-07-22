@@ -11,5 +11,7 @@ We took a look at some data for the PyBer Ride Sharing company to study and anal
 # Breif Summary of result 
 Below is an analysis with breakdown by each city type.
 ![alt text](https://github.com/HusamQ/Module-5-Challenge/blob/main/Analysis/ByCitytype.PNG)
+We see how the rides and fare data are affected by the average number of drivers for each city type, although the average fare seems to be more than other city types but the total rides and total drivers is less than Suburban and Urban cities. However, the average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities, respectively. 
+
 
 
